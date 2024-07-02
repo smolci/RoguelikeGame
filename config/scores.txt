@@ -1,0 +1,2 @@
+igralec : 1 kills
+player : 4 kills
